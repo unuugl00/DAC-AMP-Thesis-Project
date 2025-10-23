@@ -21,4 +21,5 @@ fp-info-cache
 
 # Operating System files
 .DS_Store
+desktop.ini
 Thumbs.db
